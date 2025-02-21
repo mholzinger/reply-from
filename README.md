@@ -17,8 +17,8 @@ This small Python script reads text from your clipboard, prefixes each line with
 
 1. **Clone this repository** (or just copy the script to your local environment):
    ```bash
-   git clone https://github.com/yourusername/clipboard-line-prefixer.git
-   cd clipboard-line-prefixer
+   git clone https://github.com/mholzinger/reply-from.git
+   cd reply-from
    ```
 
 2. **Create a virtual environment (recommended):**
