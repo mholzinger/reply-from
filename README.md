@@ -70,14 +70,18 @@ Original clipboard text
    ```
 
 After running the script
- 
-   ```
-   >>   IMMEDIATE NEED FOR SENIOR PLATFORM OPERATIONS ENGINEER
-   >>   Hello Connections,
-   >>
-   >>   Role: Senior Platform Operations Engineer
-   >>   Location: Remote
-   ```
+
+---
+
+   Hi, Thanks for reaching out.  
+>   
+> *>>   IMMEDIATE NEED FOR SENIOR PLATFORM OPERATIONS ENGINEER*  
+> *>>   Hello Connections*  
+> *>>*  
+> *>>   Role: Senior Platform Operations Engineer*  
+> *>>   Location: Remote*  
+
+---
 
 ## Linting
 This script follows the [flake8](https://pypi.org/project/flake8/) style guidelines:
